@@ -1,0 +1,2 @@
+mkdir -p .well-known/cloudflare/workers
+echo "true" > .well-known/cloudflare/workers/node_compat
